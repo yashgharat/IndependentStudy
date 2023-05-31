@@ -13,4 +13,4 @@
 
 ## Organization
 
-All the relevant notes can be found in [`Notes`](./Notes) and the relevant coding exercises are located in [`Exercises`](./Exercises) 
+All the relevant info will be in [`Units`](./Units), separated into their respective topics. The coding exercises for each unit accompany the notes there as well.
